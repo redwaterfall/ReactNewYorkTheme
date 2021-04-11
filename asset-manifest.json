@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.326be00e.chunk.css",
-    "main.js": "/static/js/main.1d7527b7.chunk.js",
-    "main.js.map": "/static/js/main.1d7527b7.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f16b628a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f16b628a.js.map",
-    "static/js/2.4ce8970e.chunk.js": "/static/js/2.4ce8970e.chunk.js",
-    "static/js/2.4ce8970e.chunk.js.map": "/static/js/2.4ce8970e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.326be00e.chunk.css.map": "/static/css/main.326be00e.chunk.css.map",
-    "static/js/2.4ce8970e.chunk.js.LICENSE.txt": "/static/js/2.4ce8970e.chunk.js.LICENSE.txt",
-    "static/media/Subway - 1003.00e3b497.mp4": "/static/media/Subway - 1003.00e3b497.mp4",
-    "static/media/bedroom-416062_1280.3e7013af.jpg": "/static/media/bedroom-416062_1280.3e7013af.jpg",
-    "static/media/card.css": "/static/media/chairsLivingRome.8a230e8c.jpg",
-    "static/media/manhattan-407703_1920.eea95b24.jpg": "/static/media/manhattan-407703_1920.eea95b24.jpg",
-    "static/media/office-730681_1920.bf661476.jpg": "/static/media/office-730681_1920.bf661476.jpg",
-    "static/media/road-336594_1920.0770cb4a.jpg": "/static/media/road-336594_1920.0770cb4a.jpg",
-    "static/media/sunset-569093_1920.23a65f89.jpg": "/static/media/sunset-569093_1920.23a65f89.jpg",
-    "static/media/taxi-381233_1920.3aba4867.jpg": "/static/media/taxi-381233_1920.3aba4867.jpg"
+    "main.css": "/ReactNewYorkTheme/static/css/main.d82c3252.chunk.css",
+    "main.js": "/ReactNewYorkTheme/static/js/main.87832e58.chunk.js",
+    "main.js.map": "/ReactNewYorkTheme/static/js/main.87832e58.chunk.js.map",
+    "runtime-main.js": "/ReactNewYorkTheme/static/js/runtime-main.7b64eb67.js",
+    "runtime-main.js.map": "/ReactNewYorkTheme/static/js/runtime-main.7b64eb67.js.map",
+    "static/js/2.28bc1ee8.chunk.js": "/ReactNewYorkTheme/static/js/2.28bc1ee8.chunk.js",
+    "static/js/2.28bc1ee8.chunk.js.map": "/ReactNewYorkTheme/static/js/2.28bc1ee8.chunk.js.map",
+    "index.html": "/ReactNewYorkTheme/index.html",
+    "static/css/main.d82c3252.chunk.css.map": "/ReactNewYorkTheme/static/css/main.d82c3252.chunk.css.map",
+    "static/js/2.28bc1ee8.chunk.js.LICENSE.txt": "/ReactNewYorkTheme/static/js/2.28bc1ee8.chunk.js.LICENSE.txt",
+    "static/media/Subway - 1003.00e3b497.mp4": "/ReactNewYorkTheme/static/media/Subway - 1003.00e3b497.mp4",
+    "static/media/bedroom-416062_1280.3e7013af.jpg": "/ReactNewYorkTheme/static/media/bedroom-416062_1280.3e7013af.jpg",
+    "static/media/card.css": "/ReactNewYorkTheme/static/media/chairsLivingRome.8a230e8c.jpg",
+    "static/media/manhattan-407703_1920.eea95b24.jpg": "/ReactNewYorkTheme/static/media/manhattan-407703_1920.eea95b24.jpg",
+    "static/media/office-730681_1920.bf661476.jpg": "/ReactNewYorkTheme/static/media/office-730681_1920.bf661476.jpg",
+    "static/media/road-336594_1920.0770cb4a.jpg": "/ReactNewYorkTheme/static/media/road-336594_1920.0770cb4a.jpg",
+    "static/media/sunset-569093_1920.23a65f89.jpg": "/ReactNewYorkTheme/static/media/sunset-569093_1920.23a65f89.jpg",
+    "static/media/taxi-381233_1920.3aba4867.jpg": "/ReactNewYorkTheme/static/media/taxi-381233_1920.3aba4867.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f16b628a.js",
-    "static/js/2.4ce8970e.chunk.js",
-    "static/css/main.326be00e.chunk.css",
-    "static/js/main.1d7527b7.chunk.js"
+    "static/js/runtime-main.7b64eb67.js",
+    "static/js/2.28bc1ee8.chunk.js",
+    "static/css/main.d82c3252.chunk.css",
+    "static/js/main.87832e58.chunk.js"
   ]
 }
