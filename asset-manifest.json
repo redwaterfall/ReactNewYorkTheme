@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/css/main.b6a9d4d5.chunk.css",
-    "main.js": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/js/main.1d7527b7.chunk.js",
-    "main.js.map": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/js/main.1d7527b7.chunk.js.map",
-    "runtime-main.js": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/js/runtime-main.09a08ee8.js",
-    "runtime-main.js.map": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/js/runtime-main.09a08ee8.js.map",
-    "static/js/2.4ce8970e.chunk.js": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/js/2.4ce8970e.chunk.js",
-    "static/js/2.4ce8970e.chunk.js.map": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/js/2.4ce8970e.chunk.js.map",
-    "index.html": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/index.html",
-    "static/css/main.b6a9d4d5.chunk.css.map": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/css/main.b6a9d4d5.chunk.css.map",
-    "static/js/2.4ce8970e.chunk.js.LICENSE.txt": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/js/2.4ce8970e.chunk.js.LICENSE.txt",
-    "static/media/Subway - 1003.00e3b497.mp4": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/Subway - 1003.00e3b497.mp4",
-    "static/media/bedroom-416062_1280.3e7013af.jpg": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/bedroom-416062_1280.3e7013af.jpg",
-    "static/media/card.css": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/chairsLivingRome.8a230e8c.jpg",
-    "static/media/manhattan-407703_1920.eea95b24.jpg": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/manhattan-407703_1920.eea95b24.jpg",
-    "static/media/office-730681_1920.bf661476.jpg": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/office-730681_1920.bf661476.jpg",
-    "static/media/road-336594_1920.0770cb4a.jpg": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/road-336594_1920.0770cb4a.jpg",
-    "static/media/sunset-569093_1920.23a65f89.jpg": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/sunset-569093_1920.23a65f89.jpg",
-    "static/media/taxi-381233_1920.3aba4867.jpg": "/*https://redwaterfall.github.io/ReactNewYorkTheme*/static/media/taxi-381233_1920.3aba4867.jpg"
+    "main.css": "/static/css/main.326be00e.chunk.css",
+    "main.js": "/static/js/main.1d7527b7.chunk.js",
+    "main.js.map": "/static/js/main.1d7527b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f16b628a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f16b628a.js.map",
+    "static/js/2.4ce8970e.chunk.js": "/static/js/2.4ce8970e.chunk.js",
+    "static/js/2.4ce8970e.chunk.js.map": "/static/js/2.4ce8970e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.326be00e.chunk.css.map": "/static/css/main.326be00e.chunk.css.map",
+    "static/js/2.4ce8970e.chunk.js.LICENSE.txt": "/static/js/2.4ce8970e.chunk.js.LICENSE.txt",
+    "static/media/Subway - 1003.00e3b497.mp4": "/static/media/Subway - 1003.00e3b497.mp4",
+    "static/media/bedroom-416062_1280.3e7013af.jpg": "/static/media/bedroom-416062_1280.3e7013af.jpg",
+    "static/media/card.css": "/static/media/chairsLivingRome.8a230e8c.jpg",
+    "static/media/manhattan-407703_1920.eea95b24.jpg": "/static/media/manhattan-407703_1920.eea95b24.jpg",
+    "static/media/office-730681_1920.bf661476.jpg": "/static/media/office-730681_1920.bf661476.jpg",
+    "static/media/road-336594_1920.0770cb4a.jpg": "/static/media/road-336594_1920.0770cb4a.jpg",
+    "static/media/sunset-569093_1920.23a65f89.jpg": "/static/media/sunset-569093_1920.23a65f89.jpg",
+    "static/media/taxi-381233_1920.3aba4867.jpg": "/static/media/taxi-381233_1920.3aba4867.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09a08ee8.js",
+    "static/js/runtime-main.f16b628a.js",
     "static/js/2.4ce8970e.chunk.js",
-    "static/css/main.b6a9d4d5.chunk.css",
+    "static/css/main.326be00e.chunk.css",
     "static/js/main.1d7527b7.chunk.js"
   ]
 }
