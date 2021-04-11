@@ -1,0 +1,23 @@
+.videoContainer{
+    width:100wv;
+    height: 100%;
+    
+}
+.video{
+    width:100%;
+    height: 100%;
+   /* background-image: url(../../img/chairsLivingRome.jpg);*/
+}
+.displayText{
+    width: 50vw;
+    height: 10vw;
+    position: absolute;
+    color: rgb(241, 243, 239);
+    margin-top: -30%;
+    margin-left: 25vw;
+    font-size: 5vw;
+}
+.displayText:hover{
+    font-size: 3vw;
+    margin-left: 35vw;
+}

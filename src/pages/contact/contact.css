@@ -1,0 +1,29 @@
+.contactContainer{
+    width: 99%;
+    height: 40vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   /* border: 1px solid red;*/
+    
+}
+.contactContent{
+    width: 48vw;
+    height: 10vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    /*border: 1px solid blue;*/
+}
+.contactIcon{
+    size: 4vw;
+    
+}
+a{
+    font-size: 1.8vw;
+}
+p{
+    font-size: 1.8vw;
+}
