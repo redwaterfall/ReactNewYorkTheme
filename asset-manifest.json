@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactNewYorkTheme/static/css/main.d82c3252.chunk.css",
-    "main.js": "/ReactNewYorkTheme/static/js/main.9893c30e.chunk.js",
-    "main.js.map": "/ReactNewYorkTheme/static/js/main.9893c30e.chunk.js.map",
+    "main.js": "/ReactNewYorkTheme/static/js/main.632142f7.chunk.js",
+    "main.js.map": "/ReactNewYorkTheme/static/js/main.632142f7.chunk.js.map",
     "runtime-main.js": "/ReactNewYorkTheme/static/js/runtime-main.7b64eb67.js",
     "runtime-main.js.map": "/ReactNewYorkTheme/static/js/runtime-main.7b64eb67.js.map",
     "static/js/2.28bc1ee8.chunk.js": "/ReactNewYorkTheme/static/js/2.28bc1ee8.chunk.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.7b64eb67.js",
     "static/js/2.28bc1ee8.chunk.js",
     "static/css/main.d82c3252.chunk.css",
-    "static/js/main.9893c30e.chunk.js"
+    "static/js/main.632142f7.chunk.js"
   ]
 }
