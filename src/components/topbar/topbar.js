@@ -1,21 +1,26 @@
 import './topbar.css';
-import {Link} from 'react-router-dom'
+import {Link, BrowserRouter} from 'react-router-dom'
 //import about from '../../pages/aboutpage/aboutPage'
 function Topbar(props){
     function page(){
         console.log('clicked header')
     }
-    return(<div className="topbar">
+    return(
+            <div className="topbar">
+                
              <div className="textContainer">
-                <Link to='/'>
+             
+                <Link to='/ReactNewYorkTheme'>
                     <h1 className="text" onClick={page} href={props.home}>Home </h1>
+                    
                 </Link>
-                <Link to='/about'>
+                <Link to='/ReactNewYorkTheme/about'>
                     <h1 className="text" onClick={page} href={props.about}> About </h1>
                 </Link>
-                <Link to='/contact'>
+                <Link to='/ReactNewYorkTheme/contact'>
                     <h1 className="text" onClick={page} href={props.contact}> Contact </h1>
                 </Link>
+                
             </div>
             </div>);
 }

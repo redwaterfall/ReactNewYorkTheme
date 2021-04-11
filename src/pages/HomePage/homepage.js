@@ -1,8 +1,8 @@
 import './homepage.css';
-import Topbar from './../../components/topbar/topbar.js';
-import Card from './../../components/card/card.js';
-import Videocard from './../../components/videoCard/videocard.js'
-import Footer from './../../components/footer/footer'
+import Topbar from '../../components/topbar/topbar.js';
+import Card from '../../components/card/card.js';
+import Videocard from '../../components/videoCard/videocard.js'
+import Footer from '../../components/footer/footer'
 import bedroom from './../../img/bedroom-416062_1280.jpg';
 import chairsLivingRome from './../../img/chairsLivingRome.jpg';
 import office from './../../img/office-730681_1920.jpg';

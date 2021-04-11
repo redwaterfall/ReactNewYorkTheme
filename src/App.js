@@ -1,6 +1,6 @@
 import './App.css';
 import{BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-import Homepage from './pages/HomePage/homepage.js';
+import Homepage from './pages/homePage/homepage.js';
 import Aboutpage from './pages/aboutpage/aboutPage.js';
 import Contactpage from './pages/contact/contact.js';
 function App() {
@@ -8,9 +8,9 @@ function App() {
     <Router>
     <div className="App">
       <Switch>
-        <Route path={'/'} exact component={Homepage}/>
-        <Route path={'/about'} component={Aboutpage}/>
-        <Route path={'/contact'} component={Contactpage}/>
+        <Route exact path={'/ReactNewYorkTheme'}  component={Homepage}/>
+        <Route path={'/ReactNewYorkTheme/about'} component={Aboutpage}/>
+        <Route path={'/ReactNewYorkTheme/contact'} component={Contactpage}/>
         </Switch>
     </div>
     </Router>
